@@ -1,4 +1,4 @@
-## TechNews * Projeto Teste (Modo Claro e Escuro)
+# TechNews * Projeto Teste (Modo Claro e Escuro)
 
  Sobre o projeto
 --
