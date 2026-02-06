@@ -1,5 +1,5 @@
-## TechNews — Projeto Teste (Modo Claro e Escuro)
---
+## TechNews * Projeto Teste (Modo Claro e Escuro)
+
  Sobre o projeto
 --
 O TechNews é um projeto fictício criado apenas para fins de estudo e prática em desenvolvimento web.
